@@ -1,0 +1,19 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql+mysqlconnector://root:12345@localhost/codingthunder",
+    "prod_uri": "mysql+mysqlconnector://root:12345@localhost/codingthunder",
+    "fb_uri": "https://facebook.com/codingthunder",
+    "twit_uri": "https://twitter.com/codingthunder",
+    "github_uri": "https://github.com/codingthunder",
+    "blog_name" : "Coding Thunder !",
+    "gmail_user": "gajendrarathor92",
+    "gmail_password": "",
+    "about_text" : "This for config jso file, you can update the text",
+    "number_of_posts": 2,
+    "admin_user": "admin",
+    "admin_pass": "admin",
+    "upload_location": "C:\\SapientRelated\\ProjectRelated\\Python\\CRMToolProject\\src\\static\\images"
+  }
+}
